@@ -3,7 +3,7 @@
 複数行の場合はうまいこと分離してくれます
 
 ## 導入方法
-- [Releaseページ](https://github.com/Arika0093/JournalTextTransrate/release)へ移動
+- [Releaseページ](https://github.com/Arika0093/JournalTextTransrate/releases/)へ移動
 - source code (zip) を選択して保存、解凍
 - chrome拡張機能のページへ移動して、デベロッパーモードをONに
 - `JournalTextTranslate.crx`をchromeにドラッグドロップ
