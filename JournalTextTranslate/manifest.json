@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "JournalTextTranslate",
+  "short_name": "JTT",
+  "version": "0.1.0.0",
+  "description": "Translate selected Journal-text with Google Translate",
+  "background": {
+	"scripts": ["background.js"],
+	"persistent": false
+  },
+  "permissions": [
+	"contextMenus",
+	"tabs",
+	"http://*/*",
+	"https://*/*",
+	"file:///*"
+  ]
+}
